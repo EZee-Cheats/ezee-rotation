@@ -6,7 +6,7 @@ Release Date: 08/03/2025
 Welcome to `EZee Rotation`. This document will serve as both an advanced user guide as well as a reference tool for ongoing development.  
 
 ## What is this Sorcery? 
-`EZee Rotation` is a rotation bot for World of Warcraft. It is a standalone desktop application that relies on WoW AddOns for supplemental support. `EZee Rotation` has no rotation model/logic of its own, it is entirely driven by the suggested abilities that come from either Blizzard's built-in `Combat Assisted Highlight` or the `Hekili` AddOn. `EZee Rotation` can either cast abilities automatically using virtual keypresses or prepare your next manual keystroke to cast the suggested ability. 
+`EZee Rotation` is a rotation bot for WoW. It is a standalone desktop application that relies on WoW AddOns for supplemental support. `EZee Rotation` has no rotation model/logic of its own, it is entirely driven by the suggested abilities that come from either Blizzard's built-in `Combat Assisted Highlight` or the `Hekili` AddOn. `EZee Rotation` can either cast abilities automatically using virtual keypresses or prepare your next manual keystroke to cast the suggested ability. 
 
 ## Why is it Better? 
 `EZee Rotation` is superior to Blizzard's built-in `One-Button Rotation Tool` as `EZee Rotation` suffers no `GCD` penalty. This alone will account for a substantial `DPS` increase.  
@@ -22,7 +22,7 @@ Welcome to `EZee Rotation`. This document will serve as both an advanced user gu
 1) Install `EZee Rotation` with the `setup.exe` auto-installer.
 2) Launch `EZee Rotation` from where you installed it.
 3) Enter your `License Key`.
-4) In the `Installation` tab, configure the path to your `World of Warcraft` root directory. `NOTE:` not `_retail_`, it needs to be the base `World of Warcraft` folder where `Wow.exe` is located. 
+4) In the `Installation` tab, configure the path to your `WoW` root directory. `NOTE:` not `_retail_`, it needs to be the base `WoW` folder where `Wow.exe` is located. 
 5) Select your account from the dropdown. This is important for WoW keybind detection. 
 6) Select which rotation `AddOn` you are using, either Blizzard's built-in `Combat Assisted Highlight` or `Hekili`. `Hekili` is strongly recommended. 
 7) Click the `Install EZee Rotation` button to install the `EZee AddOn` and `EZee Helper` is using `Hekili`.
